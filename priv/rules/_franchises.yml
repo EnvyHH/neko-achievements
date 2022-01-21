@@ -20,7 +20,7 @@
   metadata: &2
     title_ru: Атака титанов
     title_en: Shingeki no Kyojin
-    image: "/assets/achievements/anime/franchise/shingeki_no_kyojin.jpg"
+    image: "https://wallpaperboat.com/wp-content/uploads/2021/04/23/76788/re-zero-09.jpg"
     topic_id: 247360
 - neko_id: shingeki_no_kyojin
   level: 0
@@ -138,7 +138,7 @@
   metadata: &14
     title_ru: Re:Zero. Жизнь с нуля в альтернативном мире
     title_en: Re:Zero kara Hajimeru Isekai Seikatsu
-    image: "/assets/achievements/anime/franchise/re_zero.jpg"
+    image: https://wallpaperboat.com/wp-content/uploads/2021/04/23/76788/re-zero-09.jpg
     topic_id: 247360
 - neko_id: re_zero
   level: 0
